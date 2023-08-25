@@ -1,2 +1,2 @@
 # week_one_article
- Week 1 - Article.
+ Week 1 - Article
